@@ -13,7 +13,6 @@ import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.text.NumberFormat;
 import java.lang.management.ManagementFactory;
-import java.lang.management.MemoryMXBean;
 import com.sun.management.OperatingSystemMXBean;
 
 public class Main {
